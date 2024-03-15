@@ -35,9 +35,9 @@ def fetch_data_from_api(csv_path, api_key, output_csv):
         print(f"An error occurred: {str(e)}")
 
 # Usage:
-csv_path = "C:\\Users\\amith\\Desktop\\code-profile\\stratos_tech_test\\stocks.csv"
-api_key = "VERPW8E6SVp3G4TMpKo2hvBqdyo3WG2B" ("dummy replace with a real key")
-output_csv = "C:\\Users\\amith\\Desktop\\code-profile\\stratos_tech_test\\output.csv"
+csv_path = "path_to_file_stocks.csv"
+api_key = "add_api_key"
+output_csv = "path_to_file_output.csv"
 
-# Run ro generate CSV
+# Run to generate CSV
 #fetch_data_from_api(csv_path, api_key, output_csv)
