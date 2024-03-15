@@ -11,7 +11,7 @@
 
 ## Explanation:
 
-    When interfacing with the Polygon API, certain constraints necessitated a shift from direct integration to an ingestion process.
+When interfacing with the Polygon API, certain constraints necessitated a shift from direct integration to an ingestion process.
    
    - API Call Rate Limit: 
       With a restriction of 5 API calls per minute, the "polygon-api-data.py" script was modified to retrieve market data every 60 seconds, incorporating a pause, and then storing data into a CSV file.
