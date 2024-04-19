@@ -1,4 +1,4 @@
-# Task:
+# Background:
 
 1. Create a free account with Polygon [Polygon Documentation](https://polygon.io/docs/stocks/getting-started), Polygon provides financial market data.
 2. Create a mini Python project where you can run PySpark locally.
