@@ -1,7 +1,7 @@
-# Result:
+## Result:
 ![result-snapshot](https://github.com/amyth-singh/pyspark-polygon_ai-financial_analysis/assets/78929302/1d242b4b-79c1-48db-b10f-bd29d0e51f1a)
 
-# Background:
+## Background:
 
 1. Create a free account with Polygon [Polygon Documentation](https://polygon.io/docs/stocks/getting-started), Polygon provides financial market data.
 2. Create a mini Python project where you can run PySpark locally.
