@@ -46,7 +46,7 @@ def main(stock_csv_path, api_csv_path, investment_per_stock):
         spark.stop()
 
 if __name__ == "__main__":
-    stock_csv_path = "C:\\Users\\amith\\Desktop\\code-profile\\stratos_tech_test\\stocks.csv"
-    api_csv_path = "C:\\Users\\amith\\Desktop\\code-profile\\stratos_tech_test\\output.csv"
+    stock_csv_path = "path to the stocks.csv file"
+    api_csv_path = "path to the output.csv file"
     investment_per_stock = 1000000 / 10  
     main(stock_csv_path, api_csv_path, investment_per_stock)
